@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @daryark
+- 🌱 I’m currently learning frontend developement
