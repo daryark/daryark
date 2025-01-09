@@ -24,13 +24,25 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # - name: generate github-contribution-grid-snake.svg
+      #   uses: Platane/snk/svg-only@v3
+      #   with:
+      #     github_user_name: ${{ github.repository_owner }}
+      #     supported options:
+      #        - palette:     github
+      #        - color_snake: orange
+      #        - color_dots:  green,red,blue,grey,yellow
+      #     outputs: |
+      #       dist/github-contribution-grid-snake.svg
+      #       dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          color_snake: orange
+          color_dots: green,red,blue,grey,yellow
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
