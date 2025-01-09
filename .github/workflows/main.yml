@@ -41,8 +41,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_snake: orange
-          color_dots: green,red,blue,grey,yellow
+          color_snake: 'orange'
+          # color_dots: 'green','red','orange','yellow','grey'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
