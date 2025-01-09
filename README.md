@@ -52,19 +52,19 @@
 <br clear="both" />
 <br />
 <div align="left">
-  <a href="mailto:yarkovska11@gmail.com" target="_blank">
+  <a href="mailto:yarkovska11@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://t.me/dar_y_ark" target="_blank">
+  <a href="https://t.me/dar_y_ark" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/dasha-yarkovska" target="_blank">
+  <a href="https://www.linkedin.com/in/dasha-yarkovska" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://wa.me/4915158865386" target="_blank">
+  <a href="https://wa.me/4915158865386" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
-  <a href="https://42born2code.slack.com/team/U0652MS5R24" target="_blank">
+  <a href="https://42born2code.slack.com/team/U0652MS5R24" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
   </a>
 </div>
