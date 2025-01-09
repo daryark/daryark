@@ -5,12 +5,14 @@
 <p align="left">📍 Location – Wolfsburg, Germany<br><br>👩‍💻 Student 42 Wolfsburg – C/C++ and low-level programming<br>🌐 Interests – IoT, Industrial Tech and Smart Systems<br>🇩🇪 German Learner – Currently at A2 level<br>🔧 Projects – IRC chat, next - PiRaser instrument cluster (Arduino, RaspberryPi, Qt, CAN)</p>
 
 ###
-
-<div align="left">
+![](https://github-readme-stats.vercel.app/api?username=daryark&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=daryark&theme=holi&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daryark&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!--<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=daryark&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=daryark&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daryark&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+</div>-->
 
 ###
 
@@ -64,3 +66,18 @@
 <img src="https://raw.githubusercontent.com/daryark/daryark/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dar_y_ark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Daria Yarkovska) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=daryark&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=daryark&theme=holi&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daryark&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
