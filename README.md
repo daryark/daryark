@@ -40,7 +40,6 @@
       <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
     </div>
   </div>
-
   <!-- GIF on the Right -->
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" height="300" alt="gif animation" style="margin-left: 20px;" />
 </div>
