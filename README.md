@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Daria and I'm a Software developer, from Ukraine🇺🇦</h2>
 
 
-<p align="left">📍 Location – Wolfsburg, Germany<br><br>👩‍💻 Student 42 Wolfsburg – C/C++ and low-level programming<br>🌐 Interests – IoT, Industrial Tech and Smart Systems<br>🇩🇪 German Learner – Currently at A2 level<br>🔧 Projects – IRC chat, next - PiRaser instrument cluster (Arduino, RaspberryPi, Qt, CAN)</p>
+<p align="left">📍 Location – Wolfsburg, Germany<br><br>👩‍💻 Student in 42 Wolfsburg – C/C++ and low-level programming<br>🌐 Interests – IoT, Industrial Tech and Smart Systems<br>🇩🇪 German Learner – Currently at A2 level<br>🔧 Projects – IRC chat, next - PiRaser instrument cluster (Arduino, RaspberryPi, Qt, CAN)</p>
 
 ###
 <div align="left">
