@@ -59,7 +59,7 @@
       <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
 </div>
 
-#![Snake animation](https://raw.githubusercontent.com/daryark/daryark/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/daryark/daryark/output/github-contribution-grid-snake2.svg)
 ![snake animation](https://github.com/daryark/daryark/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
