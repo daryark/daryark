@@ -64,9 +64,9 @@
   <a href="https://wa.me/4915158865386" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
-<!--   <a href="https://yourworkspace.slack.com" target="_blank">
+  <a href="https://42born2code.slack.com/team/U0652MS5R24" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
-  </a> -->
+  </a>
 </div>
 
 
