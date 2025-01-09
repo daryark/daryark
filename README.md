@@ -41,7 +41,7 @@
     </div>
   </div>
   <!-- GIF on the Right -->
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" height="300" alt="gif animation" style="margin-left: 20px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" height="300" alt="gif animation" style="margin-left: 20px;" display="inline-block" />
 </div>
 
 
