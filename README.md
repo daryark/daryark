@@ -1,21 +1,26 @@
 
 <h2 align="left">Hi 👋! My name is Daria and I'm a Software developer, from Ukraine🇺🇦</h2>
 
+<div>
+  <img align="left" width="350" height="auto" padding="20" src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" />
+
 ### About me and interests
-  <img align="left" width="350" padding="20" src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" />
+  <p align="left" padding="20" height="auto" >📍 Location – Wolfsburg, Germany<br><br>👩‍💻 Student in 42 Wolfsburg – C/C++ and low-level programming<br>🌐 Interests – IoT, Industrial Tech and   Smart Systems<br>🇩🇪 German Learner – Currently at A2 level<br>🔧 Projects – IRC (Internet Relay Chat) on C++, next - PiRaser instrument cluster (Arduino, RaspberryPi, Qt, CAN)</p
+  <br />
+</div>
 
-<p align="left" padding="14" >📍 Location – Wolfsburg, Germany<br><br>👩‍💻 Student in 42 Wolfsburg – C/C++ and low-level programming<br>🌐 Interests – IoT, Industrial Tech and Smart Systems<br>🇩🇪 German Learner – Currently at A2 level<br>🔧 Projects – IRC (Internet Relay Chat) on C++, next - PiRaser instrument cluster (Arduino, RaspberryPi, Qt, CAN)</p
-<br />
-
-### My teck stack
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryark&layout=donut&theme=transparent&hide_border=true" height="150" alt="languages graph" /> -->
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=daryark&theme=transparent&hide_border=true" height="150" alt="streak" />-->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=daryark&theme=transparent&hide_border=true" height="150" alt="stats graph" /> -->
-<br />
-<div>
-<img align="left" width="350" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg"  display="block" />
 
-<div align="left">
+<div>
+  
+<img align="left" width="350" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg"  display="block" />
+<div align="left" padding-top="10" >
+  
+### My teck stack
+###
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
