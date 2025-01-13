@@ -13,10 +13,10 @@
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=daryark&theme=transparent&hide_border=true" height="150" alt="streak" />-->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=daryark&theme=transparent&hide_border=true" height="150" alt="stats graph" /> -->
 
-<div>
-<br />
+<div margin-top="10">
+<!-- <br /> -->
 <img align="left" width="350" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg"  display="block" />
-<div align="left" padding-top="10" >
+<div align="left" >
   
 ### My teck stack
 ###
