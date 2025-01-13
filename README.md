@@ -1,54 +1,64 @@
 
 <h2 align="left">Hi 👋! My name is Daria and I'm a Software developer, from Ukraine🇺🇦</h2>
 
-<br />
-  <img align="left" width="350" padding="20" src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" />
+<div style="display: flex; align-items: center; flex-direction: row; margin-bottom: 20px;">
+  <img 
+    style="width: 350px; height: auto; margin-right: 20px;" 
+    src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" 
+    alt="Student Badge"
+  />
+  <p style="padding: 0; margin: 0;">
+    📍 <strong>Location</strong> – Wolfsburg, Germany<br><br>
+    👩‍💻 <strong>Student in 42 Wolfsburg</strong> – C/C++ and low-level programming<br>
+    🌐 <strong>Interests</strong> – IoT, Industrial Tech, and Smart Systems<br>
+    🇩🇪 <strong>German Learner</strong> – Currently at A2 level<br>
+    🔧 <strong>Projects</strong> – IRC (Internet Relay Chat) on C++, next: PiRaser instrument cluster (Arduino, RaspberryPi, Qt, CAN)
+  </p>
+</div>
 
-<p align="left" padding="14" >📍 Location – Wolfsburg, Germany<br><br>👩‍💻 Student in 42 Wolfsburg – C/C++ and low-level programming<br>🌐 Interests – IoT, Industrial Tech and Smart Systems<br>🇩🇪 German Learner – Currently at A2 level<br>🔧 Projects – IRC (Internet Relay Chat) on C++, next - PiRaser instrument cluster (Arduino, RaspberryPi, Qt, CAN)</p>
 
-###
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryark&layout=donut&theme=transparent&hide_border=true" height="150" alt="languages graph" /> -->
   <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=daryark&theme=transparent&hide_border=true" height="150" alt="streak" />-->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=daryark&theme=transparent&hide_border=true" height="150" alt="stats graph" /> -->
 <br />
-<div>
-<img align="left" width="350" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg"  display="block" />
+<div style="display: flex; align-items: center; padding: 10px;" >
+  <img style="width: 350px; margin-right: 20px" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  <img width="12" />
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-</div>
+  <div >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+    <img width="12" />
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"  />
+    <img width="12" />-->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+    <img width="12" />
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+    <img width="12" />
+  </div>
 </div>
 
 <br clear="both" />
