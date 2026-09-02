@@ -5,7 +5,7 @@
   <!--<img align="left" width="350" height="auto" margin="20" src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" />-->
 
 ### About me and interests
-  <p align="left" padding="20" height="auto" >📍 Location – Wolfsburg, Germany<br><br>🔍 Focus – Web-development (backend mostly), C/C++ and low-level programming as a hobby<br>🌐 Fields of interest – IoT, Smart Systems, Robotics and Industrial Tech<br><br>👩‍💻 Advanced student in 42 Wolfsburg<br>🇩🇪 German Learner –  Currently B1 <br></p>
+  <p align="left" padding="20" height="auto" >🔍 Focus – Web-development (backend mostly), C/C++ and low-level programming as a hobby<br>🌐 Fields of interest – IoT, Smart Systems, Robotics and Industrial Tech<br><br>👩‍💻 Advanced student in 42 Wolfsburg<br>🇩🇪 German Learner –  Currently B1 <br><br>📍 Location – Wolfsburg, Germany</p>
   <br />
 </div>
 
