@@ -5,7 +5,7 @@
   <!--<img align="left" width="350" height="auto" margin="20" src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" />-->
 
 ### About me and interests
-  <p align="left" padding="20" height="auto" >📍 Location – Wolfsburg, Germany<br><br>👩‍💻 Advanced student in 42 Wolfsburg<br>🔍 Focus – Web-development (backend mostly), C/C++ and low-level programming as a hobby<br>🌐 Fields of interest – IoT, Industrial Tech and Smart Systems<br>🇩🇪 German Learner –  Currently B1 <br></p>
+  <p align="left" padding="20" height="auto" >📍 Location – Wolfsburg, Germany<br><br>🔍 Focus – Web-development (backend mostly), C/C++ and low-level programming as a hobby<br>🌐 Fields of interest – IoT, Smart Systems, Robotics and Industrial Tech<br><br>👩‍💻 Advanced student in 42 Wolfsburg<br>🇩🇪 German Learner –  Currently B1 <br></p>
   <br />
 </div>
 
@@ -30,6 +30,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50" alt="qt logo"  />
   <br />
   <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="50" alt=nodejs" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />-->
+  <img width="20" />
+  <br />
+  <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="20" />
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="50" alt="ubuntu logo"  />
@@ -41,19 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo"  />
   <img width="20" />
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/>
-  <img width="20" />
-  <br />
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
-  <img width="20" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="50" alt=nodejs" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />-->
   <img width="20" />
 </div>
 </div>
