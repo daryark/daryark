@@ -14,7 +14,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=daryark&theme=transparent&hide_border=true" height="150" alt="stats graph" /> -->
 <br />
 <div>
-<img align="left" width="350" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg"  display="block" margin-top="10" />
+<!-- <img align="left" width="350" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg"  display="block" margin-top="10" /> -->
   
 ### My teck stack
   
@@ -79,6 +79,6 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/daryark/daryark/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/daryark/daryark/output/github-contribution-grid-snake-dark.svg) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
