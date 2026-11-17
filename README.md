@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! I'm Daria  -  Software developer from Ukraine🇺🇦</h2>
+<h2 align="left">Hi 👋! I'm Daria  -  Software developer from Ukraine🇺🇦 living in Germany🇩🇪</h2>
 
 <div>
   <!--<img align="left" width="350" height="auto" margin="20" src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" />-->
