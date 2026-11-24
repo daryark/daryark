@@ -1,84 +1,87 @@
+# Hi, I'm Daria Yarkovska
 
-<h2 align="left">Hi 👋! I'm Daria  -  Software developer from Ukraine🇺🇦 living in Germany🇩🇪</h2>
+**Software Developer | C/C++ · Systems Programming · Backend Development**
 
-<div>
-  <!--<img align="left" width="350" height="auto" margin="20" src="https://badge.mediaplus.ma/darkblue/dyarkovs?1337Badge=off" />-->
+Wolfsburg, Germany · Open to relocation
 
-### About me and interests
-  <p align="left" padding="20" height="auto" >🔍 Focus – Backend, IoT, C/C++ and low-level development<br>🌐 Fields of interest – Smart Systems, Robotics and Industrial Tech<br><br>👩‍💻 Advanced student in "Network Information System Architecture" track in 42 Wolfsburg<br>🇩🇪 German Learner –  Currently B1 <br><br>📍 Location – Wolfsburg, Germany</p>
-  <br />
-</div>
+[LinkedIn](https://www.linkedin.com/in/daria-yarkovska) · [GitHub](https://github.com/daryark)
 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daryark&layout=donut&theme=transparent&hide_border=true" height="150" alt="languages graph" /> -->
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=daryark&theme=transparent&hide_border=true" height="150" alt="streak" />-->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=daryark&theme=transparent&hide_border=true" height="150" alt="stats graph" /> -->
-<br />
-<div>
-<!-- <img align="left" width="350" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg"  display="block" margin-top="10" /> -->
-  
-### My teck stack
-  
-<div align="left" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="cmake logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50" alt="qt logo"  />
-  <br />
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
-  <img width="20" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="50" alt="ubuntu logo"  />
-  <img width="20" />-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/>
-  <img width="20" />
-  <br />
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
-  <img width="20" />-->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="50" alt=nodejs" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />-->
-  <img width="20" />
-</div>
-</div>
+## About me
 
-<br clear="both" />
-<br />
-<div align="left">
-  <a href="mailto:yarkovska11@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://t.me/dar_y_ark">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat-square" height="40" alt="telegram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/daria-yarkovska">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://42born2code.slack.com/team/U0652MS5R24">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=flat-square" height="40" alt="slack logo" />
-  </a>
-    <a href="https://wa.me/4915158865386">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat-square" height="40" alt="whatsapp logo" />
-  </a>
-</div>
+I'm a software developer with a background in management who found a much more exciting direction in software engineering.
 
+My journey started with web development in 2022 and continued at 42 Wolfsburg, where C and C++ became my foundation in systems programming, networking and software architecture.
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/daryark/daryark/output/github-contribution-grid-snake-dark.svg) -->
+Having completed the 42 Core Curriculum in summer 2026, I'm now pursuing advanced studies in Network Information Systems Architecture, exploring assembly, operating system internals, embedded systems and electronics.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm particularly interested in robotics, IoT, industrial technologies and the interaction between software and hardware.
+
+## Technical skills
+
+| Area | Technologies & concepts |
+| --- | --- |
+| Core languages | C, C++ |
+| Additional languages | JavaScript, TypeScript, Python, Bash |
+| Systems programming | Linux, POSIX, IPC, concurrency, memory management |
+| Networking | TCP/IP, sockets, WebSockets |
+| Backend | Node.js, Express.js, Socket.IO, REST APIs |
+| Frontend | React |
+| Databases | PostgreSQL, MariaDB |
+| Development tools | Git, Docker, CMake, GDB, Valgrind |
+| Hardware | Arduino, sensors, servo motors |
+
+## Selected engineering projects
+
+### [Tetra — Real-Time Multiplayer Tetris](https://github.com/daryark/ft_transcendence)
+
+`TypeScript` · `Node.js` · `Socket.IO` · `PostgreSQL` · `Docker`
+
+Real-time multiplayer gaming platform. My contributions focused on backend architecture, the server-authoritative game engine, matchmaking and player management.
+
+### [IRC Server](https://github.com/daryark/ft_irc)
+
+`C++` · `TCP/IP` · `POSIX sockets`
+
+Event-driven IRC server with non-blocking networking, concurrent client connections and protocol implementation.
+
+### [Minishell](https://github.com/daryark/minishell)
+
+`C` · `Unix` · `POSIX`
+
+Unix shell implementation covering process management, pipes, signals, redirections and environment variables.
+
+### [Philosophers](https://github.com/daryark/philosophers)
+
+`C` · `POSIX threads` · `Mutexes`
+
+Concurrent resource-sharing simulation focused on thread synchronization and race-condition prevention.
+
+### [Arduino Experiments](https://github.com/daryark/arduino)
+
+`C/C++` · `Arduino` · `Sensors` · `Actuators`
+
+Hardware experiments involving sensor integration, motor control and light-tracking systems.
+
+### [42 Advanced — Technical Knowledge Base](https://github.com/daryark/42-advanced-knowledge-base)
+
+`Systems engineering` · `Technical documentation` · `Research`
+
+Ongoing technical research and documentation of my advanced studies in Network Information Systems Architecture.
+
+## Currently exploring
+
+- Assembly and computer architecture
+- Linux kernel and operating system internals
+- Embedded systems and electronics
+- Network and systems architecture
+- AI-assisted development and AI integrations
+
+I'm documenting my advanced systems engineering studies in my [technical knowledge base](https://github.com/daryark/42-advanced-knowledge-base).
+
+Some of my ongoing development and R&D work takes place in private repositories and is not publicly available.
+
+## Beyond the code
+
+I value technical understanding, continuous learning, collaborative development and hands-on experimentation.
+
+Open to software engineering opportunities in Germany, particularly in C/C++, systems programming, embedded and backend development.
